@@ -1,5 +1,8 @@
-# ajs-2.3-for-in-loop
-**Advanced JavaScript | Lecture 2 Task 3**
+# ajs-1.2-style-switcher
+**Advanced JavaScript | Lecture 1 Task 2**
+
+Solution to the following task:
+
+### Task
 
 Create a for in loop.
-
